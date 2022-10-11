@@ -8,7 +8,7 @@ This repository contains two projects: 1) Sentiment analysis of Amazon customer 
 The dataset consists of a few million Amazon customer reviews (input text) and star ratings (output labels) for training neural network models for sentiment analysis.
 https://www.kaggle.com/datasets/bittlingmayer/amazonreviews
 
-## Project
+## Contents
 This Notebook includes the following tasks:
 
 1. Load reviews
