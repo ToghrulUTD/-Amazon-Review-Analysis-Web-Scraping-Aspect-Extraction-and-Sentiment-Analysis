@@ -1,5 +1,5 @@
-# Sentiment-analysis-of-Amazon-product-reviews-and-Tweets
-This repository contains two projects: 1) Sentiment analysis of Amazon customer reviews, 2) Tweets. I have implemented textual feature extraction and traditional NLP methods and applied Deep Learning methods for these projects.
+# Sentiment-analysis-of-Amazon-product-reviews
+This repository contains two projects: 1) Sentiment analysis of Amazon customer reviews, 2) Tweets. I have implemented textual feature extraction and traditional NLP methods and applied Deep Learning models for sentiment classification in these projects.
 
 
 # Amazon Reviews Sentiment analysis & Scraping reviews and Sentiment analysis with BERT.
@@ -20,6 +20,7 @@ These two notebooks includes the following tasks:
 5. Sentiment classification with Convolutional, LSTM neural network and pre-trained BERT model
  
  
+
 
 # Tweets Sentiment
 
