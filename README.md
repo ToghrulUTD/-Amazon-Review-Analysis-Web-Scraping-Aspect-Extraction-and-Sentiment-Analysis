@@ -1,8 +1,6 @@
 # Sentiment-analysis-of-Amazon-product-reviews
-This repository contains two projects: 1) Sentiment analysis of Amazon customer reviews, 2) Tweets. I have implemented textual feature extraction and traditional NLP methods and applied Deep Learning models for sentiment classification in these projects.
 
-
-# Amazon Reviews Sentiment analysis & Scraping reviews and Sentiment analysis with BERT.
+## Amazon Reviews Sentiment analysis & Scraping reviews and Sentiment analysis with BERT.
 
 ## Datasets
 1 - The first dataset used for model training consists of a few million Amazon customer reviews (input text) and star ratings (output labels) for training neural network models for sentiment analysis.
@@ -21,16 +19,3 @@ These two notebooks includes the following tasks:
  
  
 
-
-# Tweets Sentiment
-
-This project performs the following tasks on the tweets dataset
-
-* Extract features from a text using tokenization, stemming + remove useless words and characters
-* Implement logistic regression from scratch
-  * Apply logistic regression on a natural language processing task
-  * Test using your logistic regression
-* Implement Naive Bayes from scratch
-  * Apply Naive Bayes on a natural language processing task
-  * Test using your Naive Bayes model
-* Perform error analysis
