@@ -9,7 +9,7 @@ https://www.kaggle.com/datasets/bittlingmayer/amazonreviews
 2 - I also web-scraped reviews from amazon website directly to asses and compare the model performances both with the custom LSTM sentiment classifier and pre-Trained Huggingface BERT sentiment classifer.
 
 ## Contents
-These two notebooks includes the following tasks:
+The notebooks includes the following tasks:
 
 1. Scrape reviews
 2. Exploratory data analysis
