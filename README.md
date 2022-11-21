@@ -1,6 +1,6 @@
 # Sentiment-analysis-of-Amazon-product-reviews
 
-## Amazon Reviews Sentiment analysis & Scraping reviews and Sentiment analysis with BERT.
+## Web Scraping Amazon product reviews and Sentiment classification.
 
 ## Datasets
 1 - The first dataset used for model training consists of a few million Amazon customer reviews (input text) and star ratings (output labels) for training neural network models for sentiment analysis.
